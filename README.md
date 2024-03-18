@@ -46,7 +46,7 @@ The "Donate" blog is a heartfelt online space dedicated to sharing stories of ki
 - MySQL
 
 
-<!-- ## Screenshots -->
+<!-- ## Screenshots
 
   ### Home Page:
 
@@ -90,7 +90,7 @@ The "Donate" blog is a heartfelt online space dedicated to sharing stories of ki
 
   ### Update Listing Page:
 
-  ![screenshot](./images/update-listing.png)
+  ![screenshot](./images/update-listing.png) -->
 
 
 <!-- ## Installation And Start The Front End
